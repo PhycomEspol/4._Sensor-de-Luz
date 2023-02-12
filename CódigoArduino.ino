@@ -8,21 +8,24 @@ void setup() {
 
 void loop() {
   int sensorValue = analogRead(A0);
-  if (sensorValue < 100) {
+  if (sensorValue < 300) {
     digitalWrite(10,HIGH);
     digitalWrite(9, LOW);
     digitalWrite(8,LOW);
+    delay(1000);
   } 
-  else if (sensorValue >= 100 && sensorValue <= 700) {
-    digitalWrite(10, LOW);
-    digitalWrite(9, HIGH);
-    digitalWrite(8, LOW);
+  else if (sensorValue >= 300 && sensorValue <= 500) {
+    digitalWrite(10, HIGH);
+    digitalWrite(9, LOW);
+    digitalWrite(8, HIGH);
+    delay(1000);
   } 
   else {
     
     digitalWrite(10, LOW);
     digitalWrite(9, LOW);
     digitalWrite(8, HIGH);
+    delay(1000);
     
   }}
 
