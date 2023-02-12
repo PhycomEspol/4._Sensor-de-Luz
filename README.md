@@ -1,4 +1,5 @@
 # Alarma para evitar asfixias en automoviles con arduino
+![Image text](https://github.com/PhycomEspol/4._Sensor-de-Luz/blob/main/error404.png)
 ## Introducción
 El objetivo de este proyecto es crear una alarma que evite la asfixia de una persona o mascota dentro de un auto con ventanas cerradas. En la actualidad, han ocurrido muchos accidentes debido a la falta de regulación del aire en el interior del auto. La alarma está diseñada para que la persona sea consciente del clima que hay en el momento antes de bajarse del coche, y así, ajustar el aire acondicionado para que no haya riesgo de asfixia.
 ## Materiales y Recursos
