@@ -30,4 +30,4 @@ Durante el proceso de creación de la alarma, se identificó un error en la cone
 En resumen este proyecto tiene como objetivo principal prevenir accidentes relacionados con la asfixia en el interior de un auto con ventanas cerradas. Al utilizar una combinación de fotorresistencia y sensor de temperatura, la alarma brinda una señal clara y precisa sobre el clima en el interior del auto, permitiendo ajustar el aire acondicionado para evitar riesgos.
 
 ## Circuito
-![Image text](https://github.com/PhycomEspol/4._Sensor-de-Luz/blob/main/Fantabulous%20Snicket.png)
+![Image text](https://github.com/PhycomEspol/4._Sensor-de-Luz/blob/main/Fantabulous%20Snicket%20(1).png)
